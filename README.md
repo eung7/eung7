@@ -2,11 +2,12 @@
 
 
 ### 👋Kim eung👋
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  <a href="https://velog.io/@wannabe_eung"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eung7)](https://github.com/eung7/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eung7)](https://github.com/eung7/github-readme-stats)
-
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  <a href="https://velog.io/@wannabe_eung"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://github.com/eung7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>  
+  
+<div align=right> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eung7&layout=compact)](https://github.com/eung7)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wannabe_eung)](https://velog.io/@wannabe_eung)
 
+</div>
+  
