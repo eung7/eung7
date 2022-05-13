@@ -8,7 +8,7 @@
 
 
 ### 👋Kim eung👋
-   안녕하세요 iOS개발자를 꿈꾸고 있습니다!
+   Only iOS
    
    Velog : https://velog.io/@wannabe_eung
    
