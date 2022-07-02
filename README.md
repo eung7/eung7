@@ -22,5 +22,4 @@
    
 ## TODO
 
-+ Learn Reactive Programming (RxSwift)
-+ Release BUKKU APP
++ Learn SwiftUI + Combine
