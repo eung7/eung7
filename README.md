@@ -20,6 +20,6 @@
    
 </div>
    
-## TODO
+## TODO (2022)
 
-+ Learn SwiftUI + Combine
++ Learn SwiftUI + RxSwift
