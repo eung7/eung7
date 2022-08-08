@@ -19,7 +19,3 @@
 ---
    
 </div>
-   
-## TODO (2022)
-
-+ Learn SwiftUI + RxSwift
