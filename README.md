@@ -11,7 +11,7 @@
 
 ---
 
-### 진행중인 프로젝트
+### 프로젝트
 
 ![icon-ios-60@3x](https://user-images.githubusercontent.com/97531269/210565238-9d4ee8b5-52ea-4b97-9c28-0c7a9b75e66d.png)
 ![Group 36976@3x](https://user-images.githubusercontent.com/97531269/210565514-163c686c-7bc5-43b0-9653-8345ad5e6166.png)
