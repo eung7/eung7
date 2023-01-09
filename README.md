@@ -20,7 +20,7 @@
 > + `UIKit` `Programmatically`
 > + `MVVM - Coordinator`
 > + `RxSwift` `ReactorKit`
-#### 아이돔(i dorm) - 인천대학교 기숙사 커뮤니티, 룸메이트 매칭 어플리케이션 [Repository](https://github.com/idorm/idorm_iOS)
+#### 아이돔(i dorm) - 인천대학교 기숙사 커뮤니티, 룸메이트 매칭 어플리케이션 [Repository](https://github.com/idorm/idorm_iOS), [AppStore](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%8F%94/id1660001335)
 > + `UIKit` `Programmatically`
 > + `MVVM`
 > + `RxSwift` `ReactorKit` `RxMoya`
