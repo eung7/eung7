@@ -11,26 +11,4 @@
 
 ---
 
-### 진행중인 프로젝트
-
-![icon-ios-60@3x](https://user-images.githubusercontent.com/97531269/210565238-9d4ee8b5-52ea-4b97-9c28-0c7a9b75e66d.png)
-![Group 36976@3x](https://user-images.githubusercontent.com/97531269/210565514-163c686c-7bc5-43b0-9653-8345ad5e6166.png)
-![icon](https://user-images.githubusercontent.com/97531269/219823351-21f98062-b805-4792-8c56-af81f8354579.png)
-
-#### 편행(PyeonHaeng) - 편의점 할인 행사 어플리케이션 [Repository](https://github.com/iOS-PPAK/PyeonHaeng)
-> + `UIKit` `Programmatically`
-> + `MVVM - Coordinator`
-> + `RxSwift` `ReactorKit`
-#### 아이돔(i dorm) - 인천대학교 기숙사 커뮤니티, 룸메이트 매칭 어플리케이션 [Repository](https://github.com/idorm/idorm_iOS), [AppStore](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%8F%94/id1660001335)
-> + `UIKit` `Programmatically`
-> + `MVVM`
-> + `RxSwift` `ReactorKit` `RxMoya`
-#### 페이버(Favor) - 선물 기록, 리마인더 어플리케이션 [Repository](https://github.com/Favor-Gift-Reminder/Favor-iOS)
-> + `UIKit` `Programmatically`
-> + `MVVM - Coordinator`
-> + `RxSwift` `ReactorKit` `RxMoya`
-#### 앨런 Swift 마스터 스쿨 17기 (2023.1 ~ 2023.3)
-
----
-
 #### Contact: e.cheol8567@gmail.com
